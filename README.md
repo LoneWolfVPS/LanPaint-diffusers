@@ -13,6 +13,11 @@ Training-free diffusion inpainting and outpainting with [LanPaint](https://githu
   - **Qwen Image** (`qwen`) — thanks [@spartanz51](https://github.com/spartanz51)
 - **Extensible**: More LanPaint-supported models will be added over time; new backends are integrated via the adapter registry.
 
+## Documentation
+
+- [LanPaint Project Overview](https://scraed.github.io/scraedBlog/lanpaint/)
+- [Partial Conditional Sampling with Langevin Dynamics](https://scraed.github.io/scraedBlog/lanpaint/conditional-sampling/)
+- [Training-Free Local Editing for Images, Video, and Audio](https://scraed.github.io/scraedBlog/lanpaint/local-editing/)
 ---
 
 ## Usage
